@@ -12,7 +12,7 @@
 
 <h1>Errors in infrequent metadynamics</h1>
 
-<h1>Hello World</h1>
+<h1>Basin-hopping to discover stable supported metal clusters</h1>
 
 <h1>Hello World</h1>
 
